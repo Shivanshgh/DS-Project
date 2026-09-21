@@ -6,7 +6,7 @@ An end-to-end **Data Analysis & Interactive Dashboard** project built with Pytho
 
 ## 📌 Project Overview
 
-This project performs a complete data analysis pipeline on the Kaggle Supermarket Sales dataset:
+This project performs a complete data analysis pipeline :
 
 | Stage | What happens |
 |---|---|
@@ -31,11 +31,6 @@ Supermarket_Sales_Analysis/
 ---
 
 ## 📊 Dataset
-
-### Source
-**Kaggle Supermarket Sales Dataset**
-> Aung Pyae. (2019). *Supermarket sales*. Kaggle.
-> https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 
 ### Schema
 
@@ -166,9 +161,6 @@ The app opens automatically at `http://localhost:8501`.
 
 ## 📜 Dataset Citation
 
-> Aung Pyae. (2019). *Supermarket sales* [Data set]. Kaggle.
-> https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
->
 > File: `supermarket_sales.csv` · 1,000 records · 17 features
 > Transactions span January 2019 – March 2019 across three branches in Yangon, Mandalay, and Naypyitaw, Myanmar.
 
@@ -176,4 +168,4 @@ The app opens automatically at `http://localhost:8501`.
 
 ## 📄 License
 
-This project is released for educational use. Dataset is sourced from Kaggle under its original licence terms.
+This project is released for educational use. Dataset is self generated from Kaggle under its original licence terms.
